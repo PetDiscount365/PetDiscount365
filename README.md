@@ -1,6 +1,6 @@
 # PetDiscount365 - Your Daily Dose of Pawsome Deals!
 
-Welcome to the official GitHub repository for [PetDiscount365.com](www.petdiscount365.com), your go-to destination for incredible deals, discounts, and promotions on everything your furry, feathered, or scaled friends could ever need!
+Welcome to the official GitHub repository for [PetDiscount365.com](https://www.petdiscount365.com), your go-to destination for incredible deals, discounts, and promotions on everything your furry, feathered, or scaled friends could ever need!
 
 ## About PetDiscount365
 
